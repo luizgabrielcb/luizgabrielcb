@@ -1,5 +1,10 @@
-Meu nome é Luiz Gabriel, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio em 2024 e atualmente estou cursando [Analise e Desenvolvimento de Sistemas na Fiap](https://www.fiap.com.br). Hoje estou focando meus estudos na linguagem Java e desenvolvendo projetos de fixação para consolidar meu aprendizado.
+Desenvolvedor Back-End | Estudante de Análise e Desenvolvimento de Sistemas
 
-**Tecnologias:** Java | Git/GitHub
+Atualmente curso ADS na FIAP e venho me dedicando continuamente aos estudos e ao desenvolvimento de projetos práticos. Tenho interesse em construir soluções eficientes e bem estruturadas, buscando sempre evoluir tecnicamente e aprender novas tecnologias.
+
+Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde eu possa aplicar meus conhecimentos, contribuir com a equipe e crescer profissionalmente.
+
+**Tecnologias:** Java | MySQL | Docker | Git
 
 **Contato:** [E-mail](mailto:luiz.gabrielcb2006@gmail.com)
+
