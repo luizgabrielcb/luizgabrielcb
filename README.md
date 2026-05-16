@@ -2,7 +2,7 @@
  
 Desenvolvedor Back-End em formação, estudante de Análise e Desenvolvimento de Sistemas na FIAP.
  
-Tenho experiência prática com desenvolvimento de APIs RESTful, autenticação com JWT, testes automatizados e boas práticas de desenvolvimento. Atualmente em busca da minha primeira oportunidade como desenvolvedor Java Back-End.
+Tenho experiência prática com desenvolvimento de APIs REST, autenticação com JWT, testes automatizados e boas práticas de desenvolvimento. Atualmente em busca da minha primeira oportunidade como desenvolvedor Java Back-End.
  
 ---
  
