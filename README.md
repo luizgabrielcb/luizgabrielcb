@@ -25,7 +25,7 @@ Possuo experiência prática na construção de APIs REST com Spring Boot, inclu
  
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-9B489A?style=for-the-badge&logo=docker&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-9B489A?style=for-the-badge)
  
 **DevOps & Ferramentas**
  
