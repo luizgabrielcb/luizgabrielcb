@@ -38,7 +38,7 @@ Possuo experiência prática na construção de APIs REST com Spring Boot, inclu
 ## 🚀 Projetos
  
 ### [GymFlow](https://github.com/luizgabrielcb/gymflow)
-API RESTful para gerenciamento de treinos com autenticação JWT, refresh token rotativo, controle de acesso por roles, testes unitários e de integração, CI/CD com GitHub Actions e deploy no Render.
+API RESTful completa para gerenciamento de treinos, com autenticação segura via JWT e refresh token rotativo, controle de acesso baseado em roles, cobertura de testes unitários e de integração com Testcontainers com banco de dados real (PostgreSQL), e pipeline de CI/CD com GitHub Actions e deploy automático no Render.
  
 [![CI](https://github.com/luizgabrielcb/gymflow/actions/workflows/workflow.yml/badge.svg)](https://github.com/luizgabrielcb/gymflow/actions/workflows/workflow.yml)
 [![Swagger](https://img.shields.io/badge/Swagger-UI-85EA2D?style=flat&logo=swagger&logoColor=black)](https://gymflow-api-t7h9.onrender.com/swagger-ui/index.html)
