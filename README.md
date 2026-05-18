@@ -1,8 +1,8 @@
 # Olá, eu sou o Luiz Gabriel 👋
  
-Desenvolvedor Back-End em formação, estudante de Análise e Desenvolvimento de Sistemas na FIAP.
+Desenvolvedor Back-End, estudante de Análise e Desenvolvimento de Sistemas na FIAP.
  
-Tenho experiência prática com desenvolvimento de APIs REST, autenticação com JWT, testes automatizados e boas práticas de desenvolvimento. Atualmente em busca da minha primeira oportunidade como desenvolvedor Java Back-End.
+Possuo experiência prática na construção de APIs REST com Spring Boot, incluindo autenticação com JWT, integração com bancos de dados como PostgreSQL, versionamento de schema com Flyway, conteinerização com Docker e testes automatizados com JUnit 5, Mockito e Testcontainers, além de CI/CD com GitHub Actions. Tenho forte interesse em resolver problemas através da tecnologia, buscando sempre desenvolver soluções bem estruturadas, com código limpo e seguindo boas práticas.
  
 ---
  
