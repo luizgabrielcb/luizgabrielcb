@@ -56,13 +56,6 @@ API RESTful para gerenciamento de treinos com autenticação JWT e refresh token
 
 ---
 
-## 📊 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgabrielcb&layout=compact&theme=dark&hide=html,css)
-![Stats](https://github-readme-stats.vercel.app/api?username=luizgabrielcb&show_icons=true&theme=dark)
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizgabrielcb/)
