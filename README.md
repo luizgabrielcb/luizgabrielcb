@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na FIAP, focado em desenvolvimento Back-End com Java e Spring Boot.
 
-Aqui você encontra projetos onde aplico o que aprendo: autenticação JWT, testes de integração com Testcontainers, CI/CD, e boas práticas de código limpo. Tenho forte interesse em resolver problemas através da tecnologia, buscando sempre desenvolver soluções bem estruturadas.
+Aqui você encontra os projetos que venho construindo ao longo da minha jornada como desenvolvedor. Tenho forte interesse em resolver problemas através da tecnologia, buscando sempre desenvolver soluções bem estruturadas, com código limpo e seguindo boas práticas.
 
 **🌱 Estudando atualmente:** Microsserviços, Mensageria (RabbitMQ/Kafka), Cloud (AWS)
 
