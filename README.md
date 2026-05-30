@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na FIAP, focado em desenvolvimento Back-End com Java e Spring Boot.
 
-Aqui você encontra os projetos que venho construindo ao longo da minha jornada como desenvolvedor. Tenho forte interesse em resolver problemas através da tecnologia, buscando sempre desenvolver soluções bem estruturadas, com código limpo e seguindo boas práticas.
+Aqui você encontra os projetos que venho construindo ao longo da minha jornada como desenvolvedor.
 
 **🌱 Estudando atualmente:** Microsserviços, Mensageria (RabbitMQ/Kafka), Cloud (AWS)
 
