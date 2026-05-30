@@ -10,19 +10,12 @@ Aqui você encontra os projetos que venho construindo ao longo da minha jornada 
 
 ## 🛠️ Tecnologias
 
-**Back-End**
+**Linguagens e Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-FB015B?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-**Bibliotecas & Ferramentas**
-
-![MapStruct](https://img.shields.io/badge/MapStruct-FF6B35?style=for-the-badge&logo=java&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JPA/Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 **Banco de Dados**
 
@@ -49,7 +42,7 @@ Aqui você encontra os projetos que venho construindo ao longo da minha jornada 
 
 ### [GymFlow](https://github.com/luizgabrielcb/gymflow)
 
-API RESTful para gerenciamento de treinos com autenticação JWT e refresh token rotativo, controle de acesso baseado em roles, paginação, e 222 testes automatizados (88% cobertura de linha, 100% nos controllers) com Testcontainers e REST Assured. Pipeline CI/CD com GitHub Actions e deploy automático no Render.
+GymFlow API — API RESTful para gestão de treinos, sessões e avaliações físicas. Spring Boot, Spring Security com JWT, PostgreSQL, 222 testes automatizados (88% de cobertura, 100% nos controllers) e CI/CD com GitHub Actions.
 
 [![CI](https://github.com/luizgabrielcb/gymflow/actions/workflows/workflow.yml/badge.svg)](https://github.com/luizgabrielcb/gymflow/actions/workflows/workflow.yml)
 [![Swagger](https://img.shields.io/badge/Swagger-UI-85EA2D?style=flat&logo=swagger&logoColor=black)](https://gymflow-api-t7h9.onrender.com/swagger-ui/index.html)
