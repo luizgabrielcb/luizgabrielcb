@@ -52,4 +52,4 @@ GymFlow API — API RESTful para gestão de treinos, sessões e avaliações fí
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizgabrielcb/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.gabrielcb2006@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luiz.gabrielcb2006@gmail.com)
