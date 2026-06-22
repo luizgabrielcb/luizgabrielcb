@@ -36,12 +36,17 @@ Aqui você encontra os projetos que venho construindo ao longo da minha jornada 
 
 ## 🚀 Projetos
 
+### [FarmaBook](https://github.com/luizgabrielcb/farmabook)
+
+FarmaBook — Aplicação web de gestão para farmácias, em produção e uso diário por equipe real. Substitui integralmente os cadernos físicos de encomendas, faltas e manipulações, com auditoria completa por funcionário via autenticação por PIN e notificação via WhatsApp com um clique ao receber um produto. Java 21, Spring Boot 3.5, React 19, TypeScript, TailwindCSS 4, PostgreSQL 17, Flyway, Docker e GitHub Actions. 459 testes automatizados (JUnit, Mockito, Testcontainers, REST Assured) com 97% de cobertura de classes e métodos.
+
+[![CI](https://github.com/luizgabrielcb/farmabook/actions/workflows/workflow.yml/badge.svg)](https://github.com/luizgabrielcb/farmabook/actions/workflows/workflow.yml)
+
 ### [GymFlow](https://github.com/luizgabrielcb/gymflow)
 
 GymFlow API — API RESTful para gestão de treinos, sessões e avaliações físicas. Spring Boot, Spring Security com JWT, PostgreSQL, 222 testes automatizados (88% de cobertura, 100% nos controllers) e CI/CD com GitHub Actions.
 
 [![CI](https://github.com/luizgabrielcb/gymflow/actions/workflows/workflow.yml/badge.svg)](https://github.com/luizgabrielcb/gymflow/actions/workflows/workflow.yml)
-[![Swagger](https://img.shields.io/badge/Swagger-UI-85EA2D?style=flat&logo=swagger&logoColor=black)](https://gymflow-api-t7h9.onrender.com/swagger-ui/index.html)
 
 ---
 
